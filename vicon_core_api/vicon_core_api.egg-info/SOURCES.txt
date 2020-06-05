@@ -1,0 +1,11 @@
+setup.py
+vicon_core_api/__init__.py
+vicon_core_api/client.py
+vicon_core_api/result.py
+vicon_core_api/schema.py
+vicon_core_api/vicon_interface.py
+vicon_core_api.egg-info/PKG-INFO
+vicon_core_api.egg-info/SOURCES.txt
+vicon_core_api.egg-info/dependency_links.txt
+vicon_core_api.egg-info/requires.txt
+vicon_core_api.egg-info/top_level.txt
